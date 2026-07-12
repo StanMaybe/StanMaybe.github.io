@@ -5,6 +5,7 @@
     font-family: "Iosevka Charon", monospace;
 }
 body {
+    background-color: #000000;
     padding: 30px;
     margin: 40px;
 }
