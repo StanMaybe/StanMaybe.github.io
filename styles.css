@@ -4,3 +4,6 @@
 .mono {
     font-family: "Iosevka Charon", monospace;
 }
+body {
+    padding: 30px;
+}
