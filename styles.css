@@ -52,6 +52,7 @@ body {
 }
 .box-area {
     grid-template-columns: repeat(2, 300px);
+    margin-top: 800px;
     display: grid;
     width: 100%;
     height: 100%;
