@@ -1,0 +1,13 @@
+body,
+head {
+    font-family: 'Google Sans', sans-serif;
+    color: white;
+    background-color: rgb(0, 108, 162);
+}
+.sad-face {
+    position: absolute;
+    transform-origin: center;
+    display: inline-block;
+    left: 50%;
+    top: 50%;
+}

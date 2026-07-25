@@ -5,6 +5,11 @@ body {
     height: 200rem;
 }
 
+.social {
+    font-family: 'Google Sans', sans-serif;
+    display: inline-block;
+}
+
 
 .topbar {
     position: absolute;
